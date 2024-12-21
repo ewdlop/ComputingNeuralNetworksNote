@@ -1,4 +1,4 @@
-# ComputingNeuralNetworksNote
+# ComputingNeuralNetworksNote;  Computing[Neural]NetworksNote
 
 The vanishing gradient problem is a challenge in training deep neural networks, where gradients become exceedingly small during backpropagation, hindering effective learning. This issue is particularly prevalent in networks utilizing activation functions like sigmoid or tanh, which can cause gradients to diminish as they propagate through layers. 
 
