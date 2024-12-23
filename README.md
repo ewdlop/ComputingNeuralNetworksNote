@@ -108,5 +108,14 @@ Addressing the vanishing gradient problem is crucial for effective deep learning
     </item>
     <item>
       <title>Consequences</title>
-      <description>
- 
+      <description>      </description>
+```
+#
+![th (7)](https://github.com/user-attachments/assets/6e023a5b-6bfb-4ca5-ab0e-a07f747f7f14)
+![th (6)](https://github.com/user-attachments/assets/d32ab902-2524-400c-a629-2fe6c47216fe)
+![th (5)](https://github.com/user-attachments/assets/ba0c79d3-3bf3-4cd5-82f1-2acb5ec10a27)
+![th (4)](https://github.com/user-attachments/assets/8c0c17e3-f67f-4d57-b9ef-0b03a81e9cb9)
+![th (3)](https://github.com/user-attachments/assets/8395e254-3851-49cf-9b7a-ff2d6b1ae433)
+![th (2)](https://github.com/user-attachments/assets/dc133287-ce08-4c36-ac7e-3ec81faa5e24)
+![th (1)](https://github.com/user-attachments/assets/59993af5-43f3-4de1-9450-869dd7a39051)
+![th](https://github.com/user-attachments/assets/39f8daba-6e1c-4bff-893e-5157aa178d3f)
